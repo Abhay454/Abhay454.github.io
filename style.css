@@ -4,6 +4,16 @@
 	font-family: 'Josefin Sans', sans-serif;
 	box-sizing: border-box;
 }
+.button1
+{
+	display:inline-block;
+	margin-top:8px;
+}
+.button2
+{
+	display:inline-block;
+	margin-top:6px;
+}
 .hero{ 
 	height: 100vh;
 	width: 100%;
