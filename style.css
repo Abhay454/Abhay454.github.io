@@ -404,14 +404,14 @@ h5{
 	justify-content: center;
 }
 .contact-me p{
-	color: white;
+	color: yellow;
 	font-size: 30px;
 	font-weight: bold;
 	margin-bottom: 25px;
 }
 .contact-me .button-two{
 	background-color:#f9004d;
-	color: white;
+	color: orange;
 	text-decoration: none;
 	border: 2px solid transparent;
 	font-weight: bold;
